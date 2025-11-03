@@ -21,7 +21,6 @@ The project includes:
 ```
 CoffeeReactor_ControlSystems/
 ├─ README.md
-├─ LICENSE
 ├─ .gitignore
 ├─ data/
 │  └─ params.json
