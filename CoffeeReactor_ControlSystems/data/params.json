@@ -1,0 +1,8 @@
+{
+  "Ts_seconds": 10,
+  "C_in_coffee_mg_dl": 50,
+  "C_in_water_mg_dl": 0,
+  "C_star_mg_dl": 25,
+  "u_min_ml_min": 0,
+  "u_max_ml_min": 66
+}
