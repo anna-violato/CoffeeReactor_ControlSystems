@@ -73,7 +73,4 @@ CoffeeReactor_ControlSystems/
 - Model Predictive Control Toolbox
 - Simulink
 
----
 
-## 🪪 License
-MIT License — see `LICENSE`.
